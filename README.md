@@ -1,2 +1,3 @@
-# openapi-generated-restassured-example
-openapi-generated-restassured-example
+## documentation
+
+java rest-assured https://openapi-generator.tech/docs/generators/java
